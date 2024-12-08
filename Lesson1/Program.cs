@@ -6,6 +6,7 @@ namespace Lesson1
     {
         static void Main(string[] args)
         {
+            #region
 
             //console.writline hızlıca yazmka istersek cw yapıp taba basacağız.!!!!!
 
@@ -39,6 +40,29 @@ namespace Lesson1
             //Pi = 1;                       SOR!!!
 
 
+            //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+            //byte b = 1;   //1Baytı 4Bayta çevirdik (int = 4bayt)
+            //int i = b;    //ve hata vermedi fakat
+
+            //int i = 1;
+            //byte b = i;  //dönüşteremez çünkü 4baytlık yeri 1 baytlık yere sığdıramaz. fakat
+
+            //int i = 1;
+            //byte b = (byte) i; //bu durumda veri kaybı olmaz çünkü  değer bir baytta saklanabilcek kadar küçüktür. fakat!!!
+
+            //int i = 1000;
+            //byte b = (byte) i;
+            //Console.WriteLine(b);  //bu durumda 32'ye ulaşırız çünkü byte +255'e kadar sayı alabilir çalıştırdığımızdfa ise 232 cevabını alacağız çünkü 32  çünkü bazı bitler kaybolmuştur c# derleyecisinin  veri kaybı.
+
+
+
+
+
+            #endregion
+
+
+            Console.Read();
 
 
         }
