@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson3", "Lesson3", "{02EA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Operators", "..\..\CoreCraft\03_Operators\03_Operators.csproj", "{EEEF8C4E-FF45-4611-A59B-CDA9DF9C0909}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson4", "Lesson4", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Comments", "..\..\CoreCraft\04_Comments\04_Comments.csproj", "{2CC7EC02-88C6-4684-92EE-61D29B53D357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{EEEF8C4E-FF45-4611-A59B-CDA9DF9C0909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEEF8C4E-FF45-4611-A59B-CDA9DF9C0909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEEF8C4E-FF45-4611-A59B-CDA9DF9C0909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC7EC02-88C6-4684-92EE-61D29B53D357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC7EC02-88C6-4684-92EE-61D29B53D357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC7EC02-88C6-4684-92EE-61D29B53D357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC7EC02-88C6-4684-92EE-61D29B53D357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +52,7 @@ Global
 		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{898CC666-CF31-4E87-B518-C58C0FAE6626} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{EEEF8C4E-FF45-4611-A59B-CDA9DF9C0909} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2CC7EC02-88C6-4684-92EE-61D29B53D357} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC778740-B8F6-4750-AF4B-F753B3236B60}
